@@ -1,121 +1,213 @@
 Contraband:
   Weapons:
     Sniper Rifle:
-    Demonic Haze
-    Scout Mastery
-    Death Parade
-    Izula
-    Izulu
-    Hackusate
-    Pellucid
-    Good Ol’ Days
-    Nova
-    Akkoro
-    Shattercore
-    Baller
-    Intervention XI
-    Intervention VI
-    Raynb0w
-  Assault Rifle:
-    Pellucid
-    StreamZ
-    Hackusate
-    Raiju
-    Futuristic
-    Apocalypse
-    Scarlet
-    Baller
-    Acid Howler
-    Raynb0w
-    1Ad-dA0
-  Pistol:
-    Raynb0w
-    Ceretta 92
-    Osiris’ Servant
+      Demonic Haze
+      Scout Mastery
+      Death Parade
+      Izula
+      Izulu
+      Hackusate
+      Pellucid
+      Good Ol’ Days
+      Nova
+      Akkoro
+      Shattercore
+      Baller
+      Intervention XI
+      Intervention VI
+      Raynb0w
+    Assault Rifle:
+      Pellucid
+      StreamZ
+      Hackusate
+      Raiju
+      Futuristic
+      Apocalypse
+      Scarlet
+      Baller
+      Acid Howler
+      Raynb0w
+      1Ad-dA0
+    Pistol:
+      Raynb0w
+      Ceretta 92
+      Osiris’ Servant
     Submachine Gun:
-    Hackusate
-    Bahamut
-    WildClaw
-    Baller
-    Raynb0w
-    x0n-voX
-  Revolver:
-    Sea Wanderer
-    Baller
-    Raynb0w
-    Flame Tamer
-  Shotgun:
-    Pellucid
-  Machine Gun:
-    Hackusate
-    Raynb0w
-  Semi Auto:
-    ∅
-  Rocket Launcher:
-    Hackusate
-  Akimbo Uzi:
-    Hackusate
-  Desert Eagle:
-    Abyssal
-    Hexgen
-    Prototype BWSX
-    
-  Alien Blaster:
-    ∅
-  Crossbow:
-    Raynb0w
-  Famas:
-    Raynb0w
-  Sawed Off:
-    C0b4lt
-  Auto Pistol:
-    ∅
-  Blaster:
-    ∅
+      Hackusate
+      Bahamut
+      WildClaw
+      Baller
+      Raynb0w
+      x0n-voX
+    Revolver:
+      Sea Wanderer
+      Baller
+      Raynb0w
+      Flame Tamer
+    Shotgun:
+      Pellucid
+    Machine Gun:
+      Hackusate
+      Raynb0w
+    Semi Auto:
+      ∅
+    Rocket Launcher:
+      Hackusate
+    Akimbo Uzi:
+      Hackusate
+    Desert Eagle:
+      Abyssal
+      Hexgen
+      Prototype BWSX
+      Devourer
+    Alien Blaster:
+      ∅
+    Crossbow:
+      Raynb0w
+    Famas:
+      Raynb0w
+    Sawed Off:
+      C0b4lt
+    Auto Pistol:
+      ∅
+    Blaster:
+      ∅
+  Other:
+    Hats:
+      Disco Mouse
+      Ravatron
+      Bits
+      Planetarium
+      U.F.O
+    Body:
+      Infinity Cloak
+      Arachnidis
+      Observer
+      Neon Dance
+      Nuke Tamer
+      Soul Harvest
+      Shattered Asura
+      Black Widow
+      Egg Tamer
+      2 Year Cape
+      1 Year Cape
+    Melee:
+      Shuriken
+      Despair
+      Void Slicer
+      Redux
+      Alter
+      Fadecrusher
+      Antidote XVI
+      Raynb0w
+      Heated Crowbar
+      Lumus
+      Acid Razer
+      Volt Fang
+      Plasma Dust
+      Flamefang
+      Soul Fang
+      Frostlance
+      hollow Fade
+    Sprays:
+      Krunkette 1
+    Dyes:
+      K.D.L Uniform
+      Spectralon
+      Vantablack
+    Waist:
+      USS TTV
+      USS Krunker
+      Floatie
+    Faces:
+      ∅
+_______________________________________________________________________________
+Relic:
+  Weapons:
+    Sniper Rifle:
+      Tedssyt
+      Containment
+      Sekigahara
+      Rezein
+      Hakan
+      24/7
+      Arcturus
+      Automaton
+      Bopper
+      Resurrection
+      Theta Republica
+      Steel Serpent
+      Sentinel-56
+      Radalive
+      Just Vibing
+      Cyber Midnight
+      Moon Juice
+      Wildstyle
+      BunnyBeam
+      Verb
+      Sheikah
+      Daimyo Spirit
+      Magma Core
+      Red Phantom
+      Flame Viper
+      Ice FAde
+      Octodance
+      RWP Dazzle
+      RWP STream
+      Splixen
+      Reaver
+      Lore
+      Razor
+      Melted
+      Pace Dore
+      Necron Bolt
+      RWP Pacemaker
+      Neon Reaver
+    Assault Rifle:
+      Nightmare
+    Pistol:
+      
+    Submachine Gun:
+      Voyage
+    Revolver:
+      
+    Shotgun:
+      
+    Machine Gun:
+      
+    Semi Auto:
+      
+    Rocket Launcher:
+      
+    Akimbo Uzi:
+      
+    Desert Eagle:
+      
+    Alien Blaster:
+      
+    Crossbow:
+      
+    Famas:
+      
+    Sawed Off:
+      
+    Auto Pistol:
+      
+    Blaster:
+      
 Other:
-  Hats:
-    Disco Mouse
-    Ravatron
-    Bits
-    Planetarium
-    U.F.O
-  Body:
-    Infinity Cloak
-    Arachnidis
-    Observer
-    Neon Dance
-    Nuke Tamer
-    Soul Harvest
-    Shattered Asura
-    Black Widow
-    Egg Tamer
-  Melee:
-    Shuriken
-    Despair
-    Void Slicer
-    Redux
-    Alter
-    Fadecrusher
-    Antidote XVI
-    Raynb0w
-    Heated Crowbar
-    Lumus
-    Acid Razer
-    Volt Fang
-    Plasma Dust
-    Flamefang
-    Soul Fang
-    Frostlance
-    hollow Fade
-  Sprays:
-    Krunkette 1
-  Dyes:
-    K.D.L Uniform
-    Spectralon
-    Vantablack
-  Waist:
-    USS TTV
-    USS Krunker
-    Floatie
-  Faces:
-    ∅
+    Hats:
+      Acid Reaper
+    Body:
+      
+    Melee:
+      Kunai
+    Sprays:
+      
+    Dyes:
+      
+    Waist:
+      
+    Faces:
+      
+
